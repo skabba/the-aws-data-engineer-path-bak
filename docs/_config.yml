@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: The AWS Data Engineering Path
+description: Explore my first-year journey in AWS Data Engineering. Find real experiences, tech comparisons, beginner tips, and resources. Ideal for new AWS data engineers and curious learners.
